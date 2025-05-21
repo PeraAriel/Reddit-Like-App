@@ -1,0 +1,14 @@
+form {
+    border: 1px solid #ccc;
+    padding: 16px;
+    width: 300px;
+    margin: 30px auto;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
